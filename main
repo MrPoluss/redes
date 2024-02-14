@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maquetacion Libre</title>
+    <link href="css/css.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <div class="encabezado">
+            <nav>
+                <img class="imagen" src="img/R.jpg">
+                <a><div class="item">Inicio</div></a>
+                <a href="destinos/Destinos.html"><div class="nav-item">Destinos</div></a>
+                <a href="sobre nosotros/sobre nosotros.html"><div class="nav-item">Sobre nosotros</div></a>
+                <a href="contactar/contactar.html"><div class="nav-item">Contactar</div></a>
+            </nav>
+    </div>
+    <div class="contenido">
+        <h1>Introduccion</h1>
+        <p>
+            ¡Bienvenido a nuestra página web de viajes! Aquí encontrarás todo lo que necesitas para planificar tu próxima aventura. </p>
+            
+        <p>  Somos una agencia de viajes dedicada a ofrecer experiencias únicas y personalizadas para cada uno de nuestros clientes. Nos apasiona viajar y creemos que cada viaje debe ser una oportunidad para descubrir nuevos lugares, culturas y personas.</p><img src="img/globo.jpg" class="globo">
+            
+        <p>  En nuestra página web encontrarás una amplia selección de destinos, desde destinos populares hasta lugares menos conocidos pero igualmente fascinantes. Nos aseguramos de que cada uno de nuestros destinos sea cuidadosamente seleccionado, para garantizar que nuestros clientes tengan una experiencia única y auténtica.</p>
+            
+        <p> Además, ofrecemos una variedad de servicios para hacer que tu viaje sea lo más cómodo y agradable posible. Desde alojamiento de calidad y transporte, hasta excursiones y actividades emocionantes, nos encargamos de todo para que tú puedas disfrutar al máximo de tus vacaciones.</p>
+            
+        <p> Nuestro equipo de expertos en viajes está siempre disponible para ayudarte a planificar tu viaje perfecto. Ya sea que quieras un itinerario completo o simplemente necesites algunos consejos de viaje, estamos aquí para ayudarte.</p>
+            
+        <p>En resumen, en nuestra página web de viajes encontrarás todo lo que necesitas para planificar tu próxima aventura. Nos comprometemos a hacer que cada uno de nuestros clientes tenga una experiencia inolvidable y a hacer realidad sus sueños de viaje. ¡Explora nuestros destinos y comienza a planificar tu próxima aventura con nosotros!</p>
+        <a href="destinos/Destinos.html"><img src="img/flecha.jpg" width="30px" height="30px"></a>
+        
+    </div>
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section about">
+                    <h3>Acerca de nuestra agencia de viajes</h3>
+                    <p>"Explora el mundo con nosotros: Tu viaje perfecto comienza aquí"</p>
+                </div>
+                <div class="footer-section links">
+                    <h3>Enlaces útiles</h3>
+                    <ul>
+                        <li><a href="Maquetacion libre.html">Inicio</a></li>
+                        <li><a href="destinos/Destinos.html">Destinos</a></li>
+                        <li><a href="sobre nosotros/sobre nosotros.html">Sobre nosotros</a></li>
+                        <li><a href="contactar/contactar.html">Contactar</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section contact">
+                    <h3>Contacto</h3>
+                    <ul>
+                        <li><i></i> Av. Requejo Nº 4 49012 Zamora</li>
+                        <li><i></i> 123-456-7890</li>
+                        <li><i></i> info@agenciadeviajes.com</li>
+                        <li><a href="https://www.instagram.com/"><img src="img/instagram.jpg" width="30px" height="30px"></a></li>
+                        <li><a href="https://www.twitter.com/"><img src="img/twitter.jpg" width="30px" height="30px"></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>Derechos reservados © 2023 Agencia de viajes.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
